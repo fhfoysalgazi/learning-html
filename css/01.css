@@ -1,0 +1,21 @@
+.header{
+    height: 200px;
+    width: 300px;
+    background-color: rgb(223, 133, 15);
+}
+.bold{
+    background-image: url('/images/dev.jpg');
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: 300px;
+    color: azure;
+    text-align: center;
+    text-decoration: underline;
+
+}
+.dolar{
+    border: 5px solid chocolate;
+    height: 60px;
+    /* display: block; */
+    display: inline-block;
+}
