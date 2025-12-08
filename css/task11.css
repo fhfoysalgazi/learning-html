@@ -1,0 +1,13 @@
+div{
+    /* border-width: 250px;
+    border-color: brown;
+    /* border-radius: 10px; */
+    /* box-shadow: 10px;  */
+    border: 10px solid rgb(37, 57, 240);
+    /* box-shadow: 10px salmon; */
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: teal;
+    box-shadow: 20px;
+}

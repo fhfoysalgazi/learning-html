@@ -1,0 +1,13 @@
+form{
+    margin-left: 150px;
+    /* background-color: aqua; */
+    height: 300px;
+    width: 350px;
+}
+h3{
+    background-color: rgb(4, 243, 163);
+    text-align: center;
+}
+textarea ,h3 ,form{
+    background-color: bisque;
+}

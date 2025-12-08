@@ -1,0 +1,26 @@
+#ib{
+    /* display: inline-block;
+    height: 2px;
+    width: 2px;
+    margin: 2px; */
+    display: inline-block;
+  background: lightcoral;
+  width: 200px;
+  height: 110px;
+  padding-top: 100px;
+}
+#bi{
+    display: block;
+}
+.box1{
+    
+}
+.box2{
+    display: inline;
+}
+.box3{
+        display: inline;
+}
+#ha{
+    box-shadow: 20px 20px 10px grey;
+}
